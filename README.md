@@ -21,11 +21,4 @@ Production ML platforms / tool-using AI agents / adaptive context routing / clou
 
 ---
 
-### book
-
-**Platform Engineering for AI** — BPB Publications, 2026  
-[amazon](https://www.amazon.com/Platform-Engineering-Artificial-Intelligence-infrastructure/dp/9365897432)
-
----
-
 [spiritedengineering.net](https://spiritedengineering.net)
