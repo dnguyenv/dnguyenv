@@ -1,6 +1,6 @@
 Hi there! 
 
-I'm Duy (duyhard).  I build production ML platforms / tool-using AI agents / adaptive context routing / cloud-native infra (AWS, GCP, Azure) / real-time media pipelines
+I'm Duy (duyhard).  I build production ML platforms / AI agents / adaptive context routing / cloud-native infra (AWS, GCP, Azure) / real-time media pipelines
 
 ---
 
