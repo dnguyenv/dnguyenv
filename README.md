@@ -13,3 +13,5 @@ intent engineering      ai core       media engineering
 ---
 
 [spiritedengineering.net](https://spiritedengineering.net)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dnguyenv&style=flat-square&color=grey)
